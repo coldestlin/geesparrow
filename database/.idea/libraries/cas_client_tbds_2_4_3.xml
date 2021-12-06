@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="cas-client-tbds-2.4.3">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/tbds/cas-client-tbds/2.4.3/cas-client-tbds-2.4.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
